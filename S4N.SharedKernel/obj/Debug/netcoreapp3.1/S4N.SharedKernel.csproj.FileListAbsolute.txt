@@ -1,0 +1,9 @@
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.SharedKernel\bin\Debug\netcoreapp3.1\S4N.SharedKernel.deps.json
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.SharedKernel\bin\Debug\netcoreapp3.1\S4N.SharedKernel.dll
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.SharedKernel\bin\Debug\netcoreapp3.1\S4N.SharedKernel.pdb
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.SharedKernel\obj\Debug\netcoreapp3.1\S4N.SharedKernel.csprojAssemblyReference.cache
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.SharedKernel\obj\Debug\netcoreapp3.1\S4N.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.SharedKernel\obj\Debug\netcoreapp3.1\S4N.SharedKernel.AssemblyInfo.cs
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.SharedKernel\obj\Debug\netcoreapp3.1\S4N.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.SharedKernel\obj\Debug\netcoreapp3.1\S4N.SharedKernel.dll
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.SharedKernel\obj\Debug\netcoreapp3.1\S4N.SharedKernel.pdb

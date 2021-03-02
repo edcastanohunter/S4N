@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "S4N.CosoleApp/1.0.0": {
+        "dependencies": {
+          "S4N.API": "1.0.0",
+          "S4N.Domain": "1.0.0",
+          "S4N.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "S4N.CosoleApp.dll": {}
+        }
+      },
+      "S4N.API/1.0.0": {
+        "runtime": {
+          "S4N.API.dll": {}
+        }
+      },
+      "S4N.Domain/1.0.0": {
+        "dependencies": {
+          "S4N.SharedKernel": "1.0.0",
+          "S4N.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "S4N.Domain.dll": {}
+        }
+      },
+      "S4N.SharedKernel/1.0.0": {
+        "runtime": {
+          "S4N.SharedKernel.dll": {}
+        }
+      },
+      "S4N.Utilities/1.0.0": {
+        "runtime": {
+          "S4N.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S4N.CosoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S4N.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S4N.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S4N.SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S4N.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

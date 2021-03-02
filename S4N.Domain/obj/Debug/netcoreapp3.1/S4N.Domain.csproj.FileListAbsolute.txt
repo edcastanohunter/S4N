@@ -1,0 +1,14 @@
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\bin\Debug\netcoreapp3.1\S4N.Domain.deps.json
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\bin\Debug\netcoreapp3.1\S4N.Domain.dll
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\bin\Debug\netcoreapp3.1\S4N.Domain.pdb
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\bin\Debug\netcoreapp3.1\S4N.SharedKernel.dll
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\bin\Debug\netcoreapp3.1\S4N.Utilities.dll
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\bin\Debug\netcoreapp3.1\S4N.SharedKernel.pdb
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\bin\Debug\netcoreapp3.1\S4N.Utilities.pdb
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\obj\Debug\netcoreapp3.1\S4N.Domain.csprojAssemblyReference.cache
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\obj\Debug\netcoreapp3.1\S4N.Domain.AssemblyInfoInputs.cache
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\obj\Debug\netcoreapp3.1\S4N.Domain.AssemblyInfo.cs
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\obj\Debug\netcoreapp3.1\S4N.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\obj\Debug\netcoreapp3.1\S4N.Domain.csproj.CopyComplete
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\obj\Debug\netcoreapp3.1\S4N.Domain.dll
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Domain\obj\Debug\netcoreapp3.1\S4N.Domain.pdb

@@ -1,0 +1,8 @@
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Utilities\bin\Debug\netcoreapp3.1\S4N.Utilities.deps.json
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Utilities\bin\Debug\netcoreapp3.1\S4N.Utilities.dll
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Utilities\bin\Debug\netcoreapp3.1\S4N.Utilities.pdb
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Utilities\obj\Debug\netcoreapp3.1\S4N.Utilities.AssemblyInfoInputs.cache
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Utilities\obj\Debug\netcoreapp3.1\S4N.Utilities.AssemblyInfo.cs
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Utilities\obj\Debug\netcoreapp3.1\S4N.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Utilities\obj\Debug\netcoreapp3.1\S4N.Utilities.dll
+C:\Users\ecastano\source\repos\S4N\S4N\S4N.Utilities\obj\Debug\netcoreapp3.1\S4N.Utilities.pdb

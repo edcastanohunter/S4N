@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.CosoleApp\\S4N.CosoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.API\\S4N.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.API\\S4N.API.csproj",
+        "projectName": "S4N.API",
+        "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.API\\S4N.API.csproj",
+        "packagesPath": "C:\\Users\\ecastano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ecastano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.CosoleApp\\S4N.CosoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.CosoleApp\\S4N.CosoleApp.csproj",
+        "projectName": "S4N.CosoleApp",
+        "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.CosoleApp\\S4N.CosoleApp.csproj",
+        "packagesPath": "C:\\Users\\ecastano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.CosoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ecastano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.API\\S4N.API.csproj": {
+                "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.API\\S4N.API.csproj"
+              },
+              "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Domain\\S4N.Domain.csproj": {
+                "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Domain\\S4N.Domain.csproj"
+              },
+              "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Utilities\\S4N.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Utilities\\S4N.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Domain\\S4N.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Domain\\S4N.Domain.csproj",
+        "projectName": "S4N.Domain",
+        "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Domain\\S4N.Domain.csproj",
+        "packagesPath": "C:\\Users\\ecastano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ecastano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.SharedKernel\\S4N.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.SharedKernel\\S4N.SharedKernel.csproj"
+              },
+              "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Utilities\\S4N.Utilities.csproj": {
+                "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Utilities\\S4N.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.SharedKernel\\S4N.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.SharedKernel\\S4N.SharedKernel.csproj",
+        "projectName": "S4N.SharedKernel",
+        "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.SharedKernel\\S4N.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\ecastano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ecastano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Utilities\\S4N.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Utilities\\S4N.Utilities.csproj",
+        "projectName": "S4N.Utilities",
+        "projectPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Utilities\\S4N.Utilities.csproj",
+        "packagesPath": "C:\\Users\\ecastano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ecastano\\source\\repos\\S4N\\S4N\\S4N.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ecastano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
